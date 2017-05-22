@@ -1,0 +1,15 @@
+﻿  main.cpp
+d:\code_2017\headshouldersdetect\headshouldersdetect\main.cpp(134): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_2017\headshouldersdetect\headshouldersdetect\main.cpp(138): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\headshouldersdetect\headshouldersdetect\main.cpp(139): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\headshouldersdetect\headshouldersdetect\main.cpp(143): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_2017\headshouldersdetect\headshouldersdetect\main.cpp(146): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\headshouldersdetect\headshouldersdetect\main.cpp(147): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\code_2017\headshouldersdetect\headshouldersdetect\main.cpp(35): warning C4101: “score”: 未引用的局部变量
+d:\code_2017\headshouldersdetect\headshouldersdetect\main.cpp(34): warning C4101: “a”: 未引用的局部变量
+d:\code_2017\headshouldersdetect\headshouldersdetect\main.cpp(34): warning C4101: “b”: 未引用的局部变量
+d:\code_2017\headshouldersdetect\headshouldersdetect\main.cpp(34): warning C4101: “cy”: 未引用的局部变量
+d:\code_2017\headshouldersdetect\headshouldersdetect\main.cpp(34): warning C4101: “angle”: 未引用的局部变量
+d:\code_2017\headshouldersdetect\headshouldersdetect\main.cpp(34): warning C4101: “cx”: 未引用的局部变量
+  headShouldersDetect.vcxproj -> D:\Code_2017\headShouldersDetect\Debug\headShouldersDetect.exe
+  headShouldersDetect.vcxproj -> D:\Code_2017\headShouldersDetect\Debug\headShouldersDetect.pdb (Full PDB)
