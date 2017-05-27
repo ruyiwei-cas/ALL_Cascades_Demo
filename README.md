@@ -1,4 +1,4 @@
-# ALL_Cascades
+# ALL_Cascades 包含头肩检测，左右眼，人脸检测等
 xml files
 
 haarcascade_frontalface_default.xml   
